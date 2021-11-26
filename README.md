@@ -1,8 +1,8 @@
-# AuthenticServer #
+## AuthenticServer #
 
 This is the server component of [authentic](https://github.com/davidguttman/authentic). This provides endpoints for signup, login, confirm, and password change.
 
-## Example ##
+### Example ##
 
 ```js
 var fs = require('fs')
